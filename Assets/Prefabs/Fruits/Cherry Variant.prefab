@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &9150914809920353737
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 897391898410807911, guid: d4efc7df5f1d497468e880b1440b156f, type: 3}
+      propertyPath: m_Name
+      value: Cherry Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 1052545222832738044, guid: d4efc7df5f1d497468e880b1440b156f, type: 3}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1052545222832738044, guid: d4efc7df5f1d497468e880b1440b156f, type: 3}
+      propertyPath: damageAmount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1052545222832738044, guid: d4efc7df5f1d497468e880b1440b156f, type: 3}
+      propertyPath: damageInterval
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2575139076900384898, guid: d4efc7df5f1d497468e880b1440b156f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 3b13a4aa142b2334b97a023cd78af11e, type: 3}
+    - target: {fileID: 3119296333417865953, guid: d4efc7df5f1d497468e880b1440b156f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.34
+      objectReference: {fileID: 0}
+    - target: {fileID: 3119296333417865953, guid: d4efc7df5f1d497468e880b1440b156f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.34
+      objectReference: {fileID: 0}
+    - target: {fileID: 3119296333417865953, guid: d4efc7df5f1d497468e880b1440b156f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.34
+      objectReference: {fileID: 0}
+    - target: {fileID: 3119296333417865953, guid: d4efc7df5f1d497468e880b1440b156f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.151
+      objectReference: {fileID: 0}
+    - target: {fileID: 3119296333417865953, guid: d4efc7df5f1d497468e880b1440b156f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.469
+      objectReference: {fileID: 0}
+    - target: {fileID: 3119296333417865953, guid: d4efc7df5f1d497468e880b1440b156f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3119296333417865953, guid: d4efc7df5f1d497468e880b1440b156f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99078333
+      objectReference: {fileID: 0}
+    - target: {fileID: 3119296333417865953, guid: d4efc7df5f1d497468e880b1440b156f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3119296333417865953, guid: d4efc7df5f1d497468e880b1440b156f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3119296333417865953, guid: d4efc7df5f1d497468e880b1440b156f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.13545617
+      objectReference: {fileID: 0}
+    - target: {fileID: 3119296333417865953, guid: d4efc7df5f1d497468e880b1440b156f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3119296333417865953, guid: d4efc7df5f1d497468e880b1440b156f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3119296333417865953, guid: d4efc7df5f1d497468e880b1440b156f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 15.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 3119296333417865953, guid: d4efc7df5f1d497468e880b1440b156f, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6733135315455409434, guid: d4efc7df5f1d497468e880b1440b156f, type: 3}
+      propertyPath: health
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 6733135315455409434, guid: d4efc7df5f1d497468e880b1440b156f, type: 3}
+      propertyPath: maxHealth
+      value: 10
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d4efc7df5f1d497468e880b1440b156f, type: 3}

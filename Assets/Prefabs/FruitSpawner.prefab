@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &537559779756312405
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2248429327382769432}
+  - component: {fileID: 2898830629797912164}
+  m_Layer: 0
+  m_Name: FruitSpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2248429327382769432
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 537559779756312405}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.09, y: -0.94, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2898830629797912164
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 537559779756312405}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b002e4204ae0b0942a56dff3f48b0eb2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnInterval: 5
+  spawnRadius: 5
+  grapePrefab: {fileID: 7642048736352498797, guid: 2449524e002bbf64dbcf33d26a13a42b, type: 3}
+  pearPrefab: {fileID: 4602267872167716137, guid: 3e85b5daabc2aa94e8162ae99d2fcbbd, type: 3}
+  cherryPrefab: {fileID: 8253613382851037102, guid: 6172f1118f71c3a48bd1174776d52d09, type: 3}
+  bananaPrefab: {fileID: 5349030862520209751, guid: b4f2177d90021fc4093ce840c0466aaa, type: 3}
+  applePrefab: {fileID: 4691579337447328714, guid: 34eab5d06d21b0241aa31a8ceae5c8c3, type: 3}
+  pomegranatePrefab: {fileID: 267302293723612128, guid: b43f6e0d28da7d24f9add014009e5821, type: 3}
+  strawberryPrefab: {fileID: 4442402937342820804, guid: 01e6045979d410d45b5eddac952d3313, type: 3}
+  goldenApplePrefab: {fileID: 6842978345863571204, guid: eb240cf84aa65d249b84bcd4f77d9d3e, type: 3}
+  peachPrefab: {fileID: 2409887923021223305, guid: d8de78cd6f00c3f469315149c4291777, type: 3}
+  coconutPrefab: {fileID: 1229967452524885657, guid: 0892d1fb682ab5b44947bf05692ccb8d, type: 3}
+  kiwiPrefab: {fileID: 31353872344881656, guid: 39f4d4991be0b1f4f9252e863136a76f, type: 3}
+  lemonPrefab: {fileID: 1367055082640425842, guid: 5853c4d461b0f9846bab21574db57fba, type: 3}
+  greenApplePrefab: {fileID: 3364375761399520572, guid: 60a71f8a11e31c34c9af5e2c7b4b4742, type: 3}
